@@ -1,0 +1,24 @@
+{
+  "name": "kochab-mongoose-intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vande713/kochab-mongoose-intro.git"
+  },
+  "author": "sam vanderlinden",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vande713/kochab-mongoose-intro/issues"
+  },
+  "homepage": "https://github.com/vande713/kochab-mongoose-intro#readme"
+}
